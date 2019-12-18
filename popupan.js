@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://bit.ly/2r37SFT';
+	var url_popup = 'https://canhonoxhquan9.blogspot.com/';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+	  // var url_ppp = 'https://canhonoxhquan9.blogspot.com/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
